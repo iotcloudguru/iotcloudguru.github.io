@@ -10,6 +10,7 @@ tags: [books, test]
 Steps to create a custom application in *Azure IoT Central*:
 
  1. Go to URL: [Azure IoT Central](https://apps.azureiotcentral.com/home)
+ ![alt text](/assets/img/path.jpg)
  2. Click on **Build** in left hand side menu
  3. Under Featured, you will get an option of Creating an App. Click on **Create App**
  4. If you have already logged in, you can skip this step. You now need to pick an account to login to Azure IoT  Central. Once you enter, in the next screen you
