@@ -7,8 +7,7 @@ thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
 tags: [books, test]
 ---
-                 Photo by Russ Ward on Unsplash
-
+              
 Steps to create a custom application in *Azure IoT Central*:
 
  1. Go to URL: [Azure IoT Central](https://apps.azureiotcentral.com/home)
@@ -48,11 +47,11 @@ Steps to create a custom application in *Azure IoT Central*:
     ![alt text](/assets/img/Slide10.PNG)
 
 Now your App is created and you can connect your devices!
-
-
-
-
-
-
+    
+ 
+ 
+ 
+ 
+ 
 Photo by <a href="https://unsplash.com/@rssemfam?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Russ Ward</a> on <a href="https://unsplash.com/s/photos/welding?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
   
