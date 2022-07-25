@@ -47,3 +47,8 @@ Steps to create a custom application in *Azure IoT Central*:
 
 Now your App is created and you can connect your devices!
 
+
+
+
+Photo by <a href="https://unsplash.com/@rssemfam?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Russ Ward</a> on <a href="https://unsplash.com/s/photos/welding?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  
