@@ -46,4 +46,3 @@ Steps to create a custom application in *Azure IoT Central*:
 ![alt text](/assets/img/Slide10.PNG)
 
 Now your App is created and you can connect your devices!
-
