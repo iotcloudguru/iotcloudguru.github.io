@@ -29,7 +29,7 @@ Steps to create a custom application in *Azure IoT Central*:
      ![alt text](/assets/img/Slide6.PNG)
     
 5. Now you need to answer few questions. 
- - [ ] Application Name: Here you can give you application unique name 
+   [ ] Application Name: Here you can give you application unique name 
  - [ ] URL: Here you can give unique URL
  - [ ] Application Template: Choose Custom Application
  - [ ] Pricing Plan: Choose free, as we want to test the application
