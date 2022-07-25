@@ -7,8 +7,7 @@ thumbnail-img: /assets/img/Azure_IoT_Central_logo.png
 share-img: /assets/img/share.png
 tags: [books, test]
 ---
-              
-Steps to create a custom application in *Azure IoT Central*:
+Azure IoT Central gives you ready to use templates which allow you to connect, manage, and operate fleets of devices at scale. If you want to build your application from scratch, you can use custom templates. In this article, we will go through all of the steps which you will require to build you own custom application easily. So let's start!
 
  1. Go to URL: [Azure IoT Central](https://apps.azureiotcentral.com/home)
          
