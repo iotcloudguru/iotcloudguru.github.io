@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to create custome application in Azure IoT Central
+title: How to create custom application in Azure IoT Central
 subtitle: An article on creating Azure IoT Central Custom Applications
 cover-img: /assets/img/russ-ward-18MJRuL4tUE-unsplash.jpg
 thumbnail-img: /assets/img/thumb.png
@@ -47,11 +47,9 @@ Steps to create a custom application in *Azure IoT Central*:
     ![alt text](/assets/img/Slide10.PNG)
 
 Now your App is created and you can connect your devices!
-    
- 
- 
- 
- 
- 
-Photo by <a href="https://unsplash.com/@rssemfam?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Russ Ward</a> on <a href="https://unsplash.com/s/photos/welding?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+ <br/>
+ <br/>
+ <br/>
+ <br/>
+ Photo by <a href="https://unsplash.com/@rssemfam?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Russ Ward</a> on <a href="https://unsplash.com/s/photos/welding?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
   
