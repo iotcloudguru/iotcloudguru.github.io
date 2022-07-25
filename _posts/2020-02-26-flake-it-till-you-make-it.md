@@ -2,7 +2,7 @@
 layout: post
 title: How to create custome application in Azure IoT Central
 subtitle: An article on creating Azure IoT Central Custom Applications
-cover-img: /assets/img/path.jpg
+cover-img: /assets/img/russ-ward-18MJRuL4tUE-unsplash.jpg
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
 tags: [books, test]
